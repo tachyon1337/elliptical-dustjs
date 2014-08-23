@@ -8,6 +8,10 @@
         "type": "git",
         "url": "https://github.com/tachyon1337/elliptical-dustjs.git"
     },
+    "dependencies":{
+        "dustjs-elliptical":"git+https://github.com/tachyon1337/dustjs.git",
+        "dustjs-helpers":"1.2.0"
+    },
     "devDependencies": {
         "gulp": "^3.6.0",
         "gulp-util": "^2.2.14",

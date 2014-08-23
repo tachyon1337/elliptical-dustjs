@@ -1,4 +1,4 @@
 # Elliptical DustJS
 
-Elliptical DustJS Template Helpers
+Elliptical DustJS & Template Helpers
 

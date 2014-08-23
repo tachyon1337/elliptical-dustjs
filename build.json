@@ -1,3 +1,5 @@
 [
+    "node_modules/dustjs-elliptical/dist/dust.js",
+    "node_modules/dustjs-helpers/dist/dust-helpers.js",
     "./lib/dust.js"
 ]
